@@ -1,4 +1,4 @@
-# DuraSpeed Whitelist Manager
+# DuraSpeed Whitelist Manager - Built for Qin F21 Pro
 
 A simple app whitelist manager for rooted Android devices that works with DuraSpeed system configurations.
 
@@ -18,9 +18,7 @@ This app lets you manage which apps are included in your DuraSpeed whitelist by 
 
 ## Requirements
 
-- Android 11 or higher
-- Rooted device (Magisk, SuperSU, etc.)
-- System write access
+- Rooted device
 
 ## Installation
 
@@ -47,12 +45,5 @@ When you first open the app, it:
    - Reboot device to apply changes
    - Reset whitelist to clear all entries
 
-## Technical Details
-
-- Built for Android SDK 34 targeting API 30+
-- Uses Material Design 3 dark theme
-- Non-destructive configuration management
-- Real-time XML parsing and modification
-- Proper root permission handling
 
 Built for users who need direct control over their DuraSpeed whitelist configuration.
