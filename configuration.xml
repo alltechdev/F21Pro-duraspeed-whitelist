@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <PlatformWhitelist>
+		<App1>com.placeholder</App1>
+    </PlatformWhitelist>
+</configuration>

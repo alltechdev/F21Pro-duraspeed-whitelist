@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DuraSpeed Whitelist</string>
+    <string name="add_to_whitelist">Add to Whitelist</string>
+    <string name="remove_from_whitelist">Remove from Whitelist</string>
+    <string name="root_required">Root access required</string>
+    <string name="root_granted">Root access granted</string>
+    <string name="root_denied">Root access denied</string>
+    <string name="searching_apps">Searching for apps…</string>
+    <string name="no_apps_found">No apps found</string>
+    <string name="whitelisted_apps">Whitelisted Apps</string>
+    <string name="all_apps">All Apps</string>
+    <string name="app_added_to_whitelist">App added to whitelist</string>
+    <string name="app_removed_from_whitelist">App removed from whitelist</string>
+    <string name="error_adding_app">Error adding app to whitelist</string>
+    <string name="error_removing_app">Error removing app from whitelist</string>
+    <string name="initializing_system">Initializing system configuration…</string>
+    <string name="loading_existing_config">Loading existing configuration…</string>
+    <string name="config_loaded">Configuration loaded successfully</string>
+    <string name="reboot_to_apply">Reboot to apply changes</string>
+    <string name="rebooting_device">Rebooting device…</string>
+    <string name="reboot_failed">Reboot failed</string>
+    <string name="reset_to_defaults">Reset to defaults</string>
+    <string name="resetting_whitelist">Resetting whitelist…</string>
+    <string name="reset_complete">Whitelist cleared successfully</string>
+    <string name="reset_failed">Failed to reset whitelist</string>
+    <string name="confirm_reset_title">Reset Whitelist</string>
+    <string name="confirm_reset_message">Are you sure you want to clear all whitelisted apps?</string>
+    <string name="confirm_reboot_title">Reboot Device</string>
+    <string name="confirm_reboot_message">Are you sure you want to reboot the device now?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+</resources>

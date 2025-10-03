@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Simple, clean speed icon in center -->
+    <!-- Main speed/boost symbol -->
+    <path android:fillColor="#FF6200EE"
+          android:pathData="M35,45L50,35L65,45L60,54L73,54L54,73L48,60L35,60Z"/>
+    
+    <!-- Simple accent dot -->
+    <path android:fillColor="#FFBB86FC"
+          android:pathData="M30,40A3,3 0 1 1 24,40A3,3 0 0 1 30,40z"/>
+    
+    <!-- Simple accent dot -->
+    <path android:fillColor="#FFBB86FC"
+          android:pathData="M84,68A3,3 0 1 1 78,68A3,3 0 0 1 84,68z"/>
+
+</vector>

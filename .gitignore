@@ -1,0 +1,29 @@
+# Gradle files
+.gradle/
+build/
+gradle-dist/
+*.zip
+
+# Local configuration file (keystore passwords, etc.)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.externalNativeBuild
+.cxx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Signing files
+*.keystore
+*.jks
+
+# APK files
+*.apk
+*.aar
+
+# ProGuard
+proguard/
