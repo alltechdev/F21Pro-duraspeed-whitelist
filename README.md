@@ -24,7 +24,7 @@ This app lets you manage which apps are included in your DuraSpeed whitelist by 
 
 ## Installation
 
-1. Download `app-release.apk` from the releases
+1. Sign the apk
 2. Install on your rooted device
 3. Grant root permissions when prompted
 4. The app will initialize the DuraSpeed configuration if needed
